@@ -1,0 +1,9 @@
+my_string = str("John Doe")
+my_int = int(6)
+my_float = float(55.7)
+my_complex =1j
+my_bool =bool(True)
+my_list = list(["Eric", "John", "Liz"])
+my_tuple =tuple(("banana","Mango", "Watermelon"))
+my_set = {"toyota", "Nissan", "benz"}
+my_dictionary = {"name": "John", "Age": 21}
