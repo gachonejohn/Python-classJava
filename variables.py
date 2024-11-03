@@ -1,4 +1,5 @@
 # variables are containers used to store data values
+
 # concatenation methods
 myName ="John"
 print('My name is ' + myName) #method one
